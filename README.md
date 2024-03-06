@@ -40,3 +40,12 @@ out_of_stock: Indicates whether the product is out of stock.
 
 pid: Unique product identifier.
 
+product_details: Additional details about the product.
+
+seller: Name of the seller offering the product.
+
+selling_price: Current selling price of the product.
+
+sub_category: Sub-category to which the product belongs.
+
+url: URL of the product page.
